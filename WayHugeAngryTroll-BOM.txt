@@ -1,0 +1,46 @@
+Partlist
+
+Exported from WayHugeAngryTroll.sch at 9/5/18 7:34 PM
+
+EAGLE Version 9.1.0 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device       Package     Library          Sheet
+
++9       +9V(T)         +9V(T)       SQUARE      mb_supply        1
+1                       PAD8         OCTOGON     mb_supply        1
+2                       PAD8         OCTOGON     mb_supply        1
+3                       PAD8         OCTOGON     mb_supply        1
+4                       PAD8         OCTOGON     mb_supply        1
+5                       PAD8         OCTOGON     mb_supply        1
+6                       PAD8         OCTOGON     mb_supply        1
+A                       PAD8         OCTOGON     mb_supply        1
+C1       100uF          0631         063_025     mb_caps-electro  1
+C2       100uF          0631         063_025     mb_caps-electro  1
+C3       100uF          0631         063_025     mb_caps-electro  1
+C4       1uF            080X0502     080X050     mb_caps-chicklet 1
+C5       100nF          072X0352     072X035     mb_caps-box      1
+C6       100pF          050X030_0251 050X030_025 mb_caps-ceramic  1
+G        GND(T)         GND(T)       SQUARE      mb_supply        1
+I        IN(T)          IN(T)        SQUARE      mb_supply        1
+IC1      NE5532N        NE5532N      DIL08       mb_ics           1
+O        OUT(T)         OUT(T)       SQUARE      mb_supply        1
+POT1     A10k           POTR         16MM-ROUND  mb_pots          1
+R1       10R            6MM.3        R0207/3     mb_resistors     1
+R2       10k            6MM.3        R0207/3     mb_resistors     1
+R3       10k            6MM.3        R0207/3     mb_resistors     1
+R4       10M            6MM.3        R0207/3     mb_resistors     1
+R5       2M7            6MM.3        R0207/3     mb_resistors     1
+R6       1k             6MM.3        R0207/3     mb_resistors     1
+R7       1k             6MM.3        R0207/3     mb_resistors     1
+R8       22k            6MM.3        R0207/3     mb_resistors     1
+R9       100R           6MM.3        R0207/3     mb_resistors     1
+R10      22k            6MM.3        R0207/3     mb_resistors     1
+R11      470k           6MM.3        R0207/3     mb_resistors     1
+R12      1k5            6MM.3        R0207/3     mb_resistors     1
+R13      2k2            6MM.3        R0207/3     mb_resistors     1
+R14      3k3            6MM.3        R0207/3     mb_resistors     1
+R15      6k2            6MM.3        R0207/3     mb_resistors     1
+R16      22k            6MM.3        R0207/3     mb_resistors     1
+R17      27k            6MM.3        R0207/3     mb_resistors     1
